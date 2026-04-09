@@ -34,8 +34,7 @@ These aren't guidelines or a tutorial to creating a highpoly, I'm expecting you 
 
 :::
 
-[
- 1280x720](./images/509281ef-0ae4-415c-821d-efaa270079e1.png)
+![Highpoly](./images/headphones_hp.mp4)
 
 Generally, we expect you to make a highpoly to bake down onto your lowpoly. Whatever your approach, we expect an **ambient occlusion map**, **normal map** and **bent normal map**.
 
@@ -45,8 +44,7 @@ Generally, we expect you to make a highpoly to bake down onto your lowpoly. What
 
 ## Lowpoly, UV's & Baking
 
-[
- 1280x720](./images/0561139d-86cf-4c12-83df-21eb179c9852.png)
+[Lowpoly](./images/phones_02.mp4)
 
 I aimed for anything under **4k tris** for my lowpoly**,** considering it's size and complexity. Anything a bit higher would be fine, but always worth considering your tricount. If you're finding it hard to work out how high or low your tricount should be, read our [Guidelines & Quality Bar](https://sbox.game/dev/doc/clothing/guidelines-quality-bar/) page segment on Tricounts.
 
@@ -68,8 +66,7 @@ We expect you to have knowledge on creating UVs. We are just showing examples of
 
 ## Texturing 
 
-[
- 1280x720](./images/6cad5f4c-a301-4743-b155-c3468b307b31.png)
+[Texturing](./images/headphones_03.mp4)
 
 We'd recommend adding details that make the clothing look **used** rather than **factory new**. This lines up well with the current clothing we have created and the overall **worn and torn** aesthetic we lean towards.
 
@@ -92,8 +89,7 @@ We'd steer away from completely flat and undetailed textures, there'd be rare ex
 
 ## LODs 
 
-[
- 1280x720](./images/da99acaf-c3c5-4199-be8d-da1990783d73.png)
+[LODs](./images/headphones_04.mp4)
 
 You can follow our segment on LODs at our [Guidelines & Quality Bar](https://sbox.game/dev/doc/clothing/guidelines-quality-bar/) page. Which breaks down what tricounts you should aim for on each LOD.
 
@@ -114,8 +110,7 @@ The tricount for each LOD of the Headphones -
 
 ## Human Version
 
-[
- 1280x720](./images/e5898554-cdba-41d9-a749-1737c53b5be1.png)
+[Human Version](./images/headphones_05.mp4)
 
 Making a Human version of a hat is relatively easy, compared to other assets. Most hats you'll only need to **scale** and **move it's position** to fit onto the human head.
 

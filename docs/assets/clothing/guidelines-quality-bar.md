@@ -26,7 +26,7 @@ Many of these guidelines cover case-by-case situations. If you need a direct ref
 ## Triangle count  🔢
 
 
-[Checking clothing triangle count](./images/8b14905a-478d-468d-8c4c-8bbed71801ac.png)
+![Checking clothing triangle count](./images/triangle_count.mp4)
 
 
 Checking over examples of existing clothing, you may be able to get a rough estimate of a clothing asset's triangle count. 'Common sense' should help guide you, but here are some examples of triangle counts across our own assets.
@@ -51,7 +51,7 @@ Further information on this specific topic can be found in the [Clothing Topolog
 ## Topology 🕸️
 
 
-[Good vs bad topology](./images/709703ab-a4ba-4492-a5a2-e1f8a0e46790.png)
+![Good vs bad topology](./images/topology_explain.mp4)
 
 
  ![](./images/topology-1.png " =1806x1110")
@@ -306,7 +306,7 @@ When we use this level, we use the same mesh as LOD3, but with only one material
 Here's an example with one of our hoodies.
 
 
-[Clothing LOD level example](./images/104ac414-62da-46ea-9b9e-225996379595.png)
+![Clothing LOD level example](./images/lod.mp4)
 
 
 
@@ -319,8 +319,7 @@ Always keep in mind that your model will be seen from primarily a third person v
 You can check your LOD meshes in ModelDoc through the wireframe feature, or the 'quad overdraw' debug visualization. Here's an example of how this looks with the Citizen character:
 
 
-[
- 1536x864](./images/6c778065-0906-4aa7-9080-c317ea6b83db.png)
+![ModelDoc](./images/sbox_modeldoc_lod.mp4)
 
 When you see the wireframe turning 'solid', this is a sign triangle density should be reduced. Likewise, in the 'quad overdraw' view, solid blue is best.
 

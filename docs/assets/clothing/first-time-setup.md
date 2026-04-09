@@ -9,9 +9,9 @@ updated: 2025-01-14
 
 ## First time Opening S&box 📦
 
-[Opening S&box for first time](./images/e64ec000-0b7a-4e14-b1f6-9c6893aacdd6.png)
+![Opening S&box for first time](./images/first-time-setup.mp4)
 
- ![](./images/first-time-opening-s-box-1.png "left-50 =535x359")
+![](./images/first-time-opening-s-box-1.png "left-50 =535x359")
 
 Open S&box and make a new project. You can select 'Addon' as your template since we're only going to publish a model.
 
@@ -19,7 +19,7 @@ Open S&box and make a new project. You can select 'Addon' as your template since
 
 
 
- ![](./images/first-time-opening-s-box.png "left-50 =241x228")
+![](./images/first-time-opening-s-box.png "left-50 =241x228")
 
 Make sure to turn on *'Show Base Content'*. This will allow you to see important 'core' folders and files in the asset browser, which you will be using during the clothing creation process.
 
@@ -38,7 +38,7 @@ You will **never** need to add or adjust files within the core folders (e.g. the
 ## Grabbing Citizen Files 🤏
 
 
-[Locating citizen asset files](./images/ac3fd166-4c4b-48a3-aafc-c2e87c89b2d6.png)
+![Locating citizen asset files](./images/docs/assets/clothing/images/grab-files.mp4)
 
 Find useful files in `Steam\steamapps\common\sbox\addons\citizen\Assets\models\citizen`
 
