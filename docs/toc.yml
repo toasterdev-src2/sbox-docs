@@ -19,6 +19,8 @@ items:
   href: audio/
 - name: Animation
   href: animation/
+- name: Movie Maker
+  href: movie-maker/
 - name: Gameplay
   href: gameplay/
 - name: Networking
